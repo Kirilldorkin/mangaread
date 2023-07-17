@@ -19,7 +19,7 @@ const SigninForm = () => {
     // Вызываем действие Redux для выполнения входа
     dispatch(signin(loginData));
 
-    console.log("Вход выполнен");
+    console.log("  выполнен");
   };
 
   return (
