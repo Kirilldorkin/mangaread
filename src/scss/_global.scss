@@ -1,0 +1,13 @@
+// Нужно импортировать этот файл, что бы не было ошибки 
+@import "./vriables";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    // Пример использования переменных в scss
+    // background-color: $dark-purple-color;
+}
